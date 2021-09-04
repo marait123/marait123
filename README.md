@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/mohammed-ibrahim-gaballah-4261a8180/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohammed-ibrahim" height="30" width="40"  /></a>
+<a href="https://www.linkedin.com/in/mohammed-ibrahim-gaballah-4261a8180/" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/linkedin+linkedin+logo+networking+social+media+icon-1320196081476022403.png" alt="mohammed-ibrahim" height="30" width="40"  /></a>
 </p>
 
 
