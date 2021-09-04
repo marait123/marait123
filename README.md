@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marait123/marait123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🏫 Computer Engineering Student at **Faculty of Engineering Cairo University**
 
-- 👨‍💻 Interested in **DevOps && Backend && AI && Competitive Programming**
+- 👨‍💻 Interested in **DevOps && Backend && FrontEnd &&  AI ( vision, NLP, GANs ) && Competitive Programming**
 
 
 <p align="left">
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <img src="https://bootstrapstudio.io/assets/img/logo_128.png" alt="bootstrap studio" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank">
 <a href="https://bootstrapstudio.io/" target="_blank">
-<img src="https://www.pngrepo.com/download/184129/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank">
+<!--<img src="https://www.pngrepo.com/download/184129/adobe-illustrator.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank">-->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/260px-Go_Logo_Blue.svg.png" alt="aws" width="60" height="40"/> </a> <a href="https://sass-lang.com" target="_blank">
