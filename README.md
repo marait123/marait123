@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 | Date | may, 2022 |
 | Grade | distinction with honorary grade  **A**|
 
-
+# Interests
 - 👨‍💻 Interested in **DevOps && Backend && FrontEnd &&  AI ( vision, NLP, GANs ) && Competitive Programming && IOT && Computer Architecture && Linux Programming**
 
 
