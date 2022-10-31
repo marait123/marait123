@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - ⚡ A fulllstack web development tutor at **udacity**
 
-- 🏫 Computer Engineering Fresh Grad from  **Faculty of Engineering Cairo University** - Graduated with an **honorary grade distinction**
+- 🏫 Computer Engineering Fresh Grad from  **Faculty of Engineering Cairo University** 
+- Graduated with an honorary grade distinction === **A**
 
 - 👨‍💻 Interested in **DevOps && Backend && FrontEnd &&  AI ( vision, NLP, GANs ) && Competitive Programming && IOT && Computer Architecture && Linux Programming**
 
