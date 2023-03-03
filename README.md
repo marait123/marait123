@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohammed Ibrahim</h1>
 
 - ⚡ Backend developer -- full-time
-- ⚡ A fulllstack web development tutor at **udacity** -- part-time
+- ⚡ Teaching assistant of machine intelligence at Cairo University faculty of engineering department of computer engineering-- part-time
 
 - 🏫 a distinctive Computer Engineer
 
