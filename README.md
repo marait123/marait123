@@ -15,22 +15,21 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Mohammed Ibrahim</h1>
 
-- 👨‍💻 Backend developer -- full-time
-- 👨‍💻 Teaching assistant of machine intelligence at Cairo University faculty of engineering department of computer engineering-- part-time
-- **U** udacity fullstack tutor (python, react, aws, kuberenetes)
-- 🏫 a distinctive Computer Engineer
+- 💻 Backend Developer — **Full-time**
+- 🎓 Teaching Assistant of Machine Intelligence at Cairo University, Faculty of Engineering, Department of Computer Engineering — **Part-time**
+- 🌟 Udacity Fullstack Tutor (Python, React, AWS, Kubernetes)
+- 🏫 A Distinctive Computer Engineer
 
-## Education
-| Tables   |      Value      | 
+## 🎓 Education
+| **Category**   |      **Details**      | 
 |----------|:-------------:|
-| faculty|  **Faculty of Engineering Cairo University**  | 
-| Department |    Computer engineering   |
-| Date | may, 2022 |
-| Grade | distinction with honorary grade  **A**|
+| 🏛️ **Faculty** |  Faculty of Engineering, Cairo University  | 
+| 🖥️ **Department** |    Computer Engineering   |
+| 📅 **Date** | May, 2022 |
+| 🎖️ **Grade** | Distinction with Honorary Grade **A**|
 
-## Interests
-- 👨‍💻 Interested in **DevOps && Backend && FrontEnd &&  AI ( vision, NLP, GANs ) && Competitive Programming && IOT && Computer Architecture && Linux Programming**
-
+## 🌱 Interests
+- 💡 Interested in **DevOps, Backend, Frontend, AI (Computer Vision, NLP, GANs), Competitive Programming, IoT, Computer Architecture, Linux Programming**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
